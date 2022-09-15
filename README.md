@@ -12,3 +12,7 @@ The Urban city type had much larger riders, drivers and total fares compared to 
 ![TBrickey](https://github.com/TBrickey/PyBer_Analysis/blob/main/analysis/pyber_summary_df.png)
 
 ![TBrickey](https://github.com/TBrickey/PyBer_Analysis/blob/main/analysis/Challenge_fare_summary.png)
+
+## Summary
+
+Based on the results, there are several recommendations I’d make. We could discount rates in Suburban and Rural city types by increasing usage. The fares are on average higher and giving a 1 time or small discount could increase rides and hopefully increase repeat customers. We could work with local entertainment businesses, such as wineries, breweries, and venues to see if there’s an opportunity to cross advertise and increase riders traveling from Urban to Rural areas and vice versa. Promotions could include discounts or a free drink with proof of our downloaded app. 
