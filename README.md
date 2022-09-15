@@ -7,7 +7,7 @@ In this project, we’ve used Python, Pandas and Matplotlib to create a summary 
 
 ## Results
 
-The Urban city type had much larger riders, drivers and total fares compared to Suburban and Rural city types. Urban total fares are 2 times and 9 times greater than Suburban and Rural city types, respectively. This can be seen in the following table and graph.  
+The Urban city type had a much larger total riders, drivers and fares compared to Suburban and Rural city types. Urban total fares are 2 times and 9 times greater than Suburban and Rural city types, respectively. This can be seen in the following table and graph.  
 
 ![TBrickey](https://github.com/TBrickey/PyBer_Analysis/blob/main/analysis/pyber_summary_df.png)
 
